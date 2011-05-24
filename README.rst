@@ -6,14 +6,31 @@ The ``plonetheme.unilluminated`` package uses the *theming & packaging* features
 available in `plone.app.theming`_ to make the `CSS Templates`_ theme `Unilluminated`_ easily
 available in `Plone 4.1`_.
 
-
 Installation
 ------------
 
-Currently, only installation via Python package (and buildout) is supported. But an installable zip file is in development. 
+Add Plone site
+~~~~~~~~~~~~~~
+
+Install Plone 4.1 with `plone.app.theming`_ and create a Plone site (if you have not already)
+with Diazo theming configured.
+
+.. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot2.png
+
+
+Zip file
+~~~~~~~~
+
+If you are an end user, you might enjoy installation via zip file import.
+
+1. Download the zip file:
+
+.. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot4.png
 
 Buildout
 ~~~~~~~~
+
+If you are a developer, you might like to install via buildout.
 
 Add ``plonetheme.unilluminated`` to your ``plone.recipe.zope2instance`` section's *eggs* parameter e.g.::
 
@@ -23,22 +40,7 @@ Add ``plonetheme.unilluminated`` to your ``plone.recipe.zope2instance`` section'
         …
         plonetheme.unilluminated
 
-Zip file
-~~~~~~~~
 
-XXX Coming soon
-
-Configuration
--------------
-
-Once you have installed the package, you must configure it in Plone.
-
-Add Plone site
-~~~~~~~~~~~~~~
-
-Install Plone 4.1 and create a Plone site (if you have not already) with Diazo theming configured.
-
-.. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot2.png
 
 
 Select theme
