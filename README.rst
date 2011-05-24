@@ -23,7 +23,8 @@ Zip file
 
 If you are an end user, you might enjoy installation via zip file import.
 
-1. Download the zip file:
+1. Download the zip file: https://github.com/aclark4life/plonetheme.unilluminated/blob/master/unilluminated.zip?raw=true
+2. Import the theme from the Diazo theme control panel.
 
 .. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot4.png
 
@@ -39,9 +40,6 @@ Add ``plonetheme.unilluminated`` to your ``plone.recipe.zope2instance`` section'
         Plone
         …
         plonetheme.unilluminated
-
-
-
 
 Select theme
 ~~~~~~~~~~~~
@@ -61,10 +59,10 @@ Help
 
 Obviously there is more work to be done. If you want to help, pull requests accepted! Some ideas:
 
-* Fix zip file (currently getting a traceback from lxml, even with zip files from w/p.a.theming tests)
 * Add a diazo rule to import Plone editing styles
 * Configure styles to use portal_css
 * Add quick installer support
+* Improve styles 
 
 License
 -------
