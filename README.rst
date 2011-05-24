@@ -31,7 +31,7 @@ If you are an end user, you might enjoy installation via zip file import.
 Buildout
 ~~~~~~~~
 
-If you are a developer, you might like to install via buildout.
+If you are a developer, you might enjoy installation via buildout.
 
 Add ``plonetheme.unilluminated`` to your ``plone.recipe.zope2instance`` section's *eggs* parameter e.g.::
 
