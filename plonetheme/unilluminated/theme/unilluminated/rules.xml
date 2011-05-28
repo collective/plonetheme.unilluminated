@@ -8,6 +8,7 @@
 
     <prepend content='//*[@id="portal-personaltools"]' theme='//*[@id="search"]' />
 
+    <replace theme="/html/head/base" content="/html/head/base" />
     <replace theme="/html/head/title" content="/html/head/title"/>
 
     <copy content='//*[@id="portal-logo"]' theme='/html/body/div/div/div/h1' />
