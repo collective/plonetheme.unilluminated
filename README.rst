@@ -23,7 +23,7 @@ Zip file
 
 If you are an end user, you might enjoy installation via zip file import.
 
-1. Download the zip file: https://github.com/aclark4life/plonetheme.unilluminated/blob/master/unilluminated.zip?raw=true
+1. Download the zip file: http://plone.org/products/plonetheme.unilluminated/releases/0.1.2/unilluminated.zip
 2. Import the theme from the Diazo theme control panel.
 
 .. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot4.png
