@@ -4,7 +4,7 @@ import os
 
 setup(
     name='plonetheme.unilluminated',
-    version='0.1.4',
+    version='0.1.5',
     description='An installable Diazo theme for Plone 4.1',
     long_description=open("README.rst", "rb").read() +
         open(os.path.join("docs", "HISTORY.txt"), "rb").read(),

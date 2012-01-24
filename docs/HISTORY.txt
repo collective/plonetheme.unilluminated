@@ -2,6 +2,12 @@
 Changelog
 =========
 
+0.1.5 (2012-01-24)
+------------------
+
+* Fix brown bag release (missing theme files)
+  [aclark]
+
 0.1.4 (2012-01-24)
 ------------------
 
