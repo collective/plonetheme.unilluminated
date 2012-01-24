@@ -15,7 +15,7 @@ Add Plone site
 Install Plone 4.1 with `plone.app.theming`_ and create a Plone site (if you have not already)
 with Diazo theming configured.
 
-.. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot2.png
+.. image:: https://github.com/collective/plonetheme.unilluminated/raw/master/screenshot2.png
 
 
 Zip file
@@ -26,7 +26,7 @@ If you are an end user, you might enjoy installation via zip file import.
 1. Download the zip file: http://plone.org/products/plonetheme.unilluminated/releases/0.1.2/unilluminated.zip
 2. Import the theme from the Diazo theme control panel.
 
-.. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot4.png
+.. image:: https://github.com/collective/plonetheme.unilluminated/raw/master/screenshot4.png
 
 Buildout
 ~~~~~~~~
@@ -46,13 +46,13 @@ Select theme
 
 Select and enable the theme from the Diazo control panel.
 
-.. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot3.png
+.. image:: https://github.com/collective/plonetheme.unilluminated/raw/master/screenshot3.png
 
 That's it!
 
 You should see (without the calendar):
 
-.. image:: https://github.com/aclark4life/plonetheme.unilluminated/raw/master/screenshot.png
+.. image:: https://github.com/collective/plonetheme.unilluminated/raw/master/screenshot.png
 
 Help
 ----
