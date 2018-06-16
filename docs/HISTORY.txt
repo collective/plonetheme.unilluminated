@@ -5,7 +5,10 @@ Changelog
 0.1.6 (unreleased)
 ------------------
 
-- Added more strings classifiers items for this packages
+- Added quick install support via generic setups profile for this package
+  [macagua]
+
+- Added more strings classifiers items for this package
   [macagua]
 
 - Added manifest file for diazo theme and the preview file
