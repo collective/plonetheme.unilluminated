@@ -52,7 +52,7 @@ That's it!
 
 You should see (without the calendar):
 
-.. image:: https://github.com/collective/plonetheme.unilluminated/raw/master/screenshot.png
+.. image:: https://github.com/collective/plonetheme.unilluminated/tree/master/plonetheme/unilluminated/theme/unilluminated/preview.png
 
 Help
 ----
