@@ -5,6 +5,10 @@ Changelog
 0.1.6 (unreleased)
 ------------------
 
+- Fixed warning: no files found matching '*.txt' and '*.txt' under directory
+  'plonetheme' from MANIFEST.in file
+  [macagua]
+
 - Added quick install support via generic setups profile for this package
   [macagua]
 
